@@ -1,0 +1,304 @@
+site_name: PluginDepot
+site_description: Documentation for PluginDepot Unreal Engine 5 plugins
+site_author: PluginDepot
+site_url: https://deploymodule.github.io/plugin-depot/
+repo_url: https://github.com/DeployModule/plugin-depot
+repo_name: DeployModule/plugin-depot
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - toc.follow
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - getting-started/installation.md
+    - getting-started/quick-start.md
+  - Rendering:
+    - Vapor:
+      - vapor/index.md
+      - vapor/overview.md
+      - vapor/usage.md
+      - vapor/api-reference.md
+      - vapor/changelog.md
+    - Tonal:
+      - tonal/index.md
+      - tonal/overview.md
+      - tonal/usage.md
+      - tonal/api-reference.md
+      - tonal/changelog.md
+    - Lucent:
+      - lucent/index.md
+      - lucent/overview.md
+      - lucent/usage.md
+      - lucent/api-reference.md
+      - lucent/changelog.md
+    - Aether:
+      - aether/index.md
+      - aether/overview.md
+      - aether/usage.md
+      - aether/api-reference.md
+      - aether/changelog.md
+  - Camera:
+    - Gimbal:
+      - gimbal/index.md
+      - gimbal/overview.md
+      - gimbal/usage.md
+      - gimbal/api-reference.md
+      - gimbal/changelog.md
+  - Animation:
+    - Kinetic:
+      - kinetic/index.md
+      - kinetic/overview.md
+      - kinetic/usage.md
+      - kinetic/api-reference.md
+      - kinetic/changelog.md
+    - Perpetual:
+      - perpetual/index.md
+      - perpetual/overview.md
+      - perpetual/usage.md
+      - perpetual/api-reference.md
+      - perpetual/changelog.md
+  - AI:
+    - OmniSense:
+      - omnisense/index.md
+      - omnisense/overview.md
+      - omnisense/usage.md
+      - omnisense/api-reference.md
+      - omnisense/changelog.md
+    - Warden:
+      - warden/index.md
+      - warden/overview.md
+      - warden/usage.md
+      - warden/api-reference.md
+      - warden/changelog.md
+  - Audio:
+    - Sonance:
+      - sonance/index.md
+      - sonance/overview.md
+      - sonance/usage.md
+      - sonance/api-reference.md
+      - sonance/changelog.md
+  - Gameplay:
+    - Arsenal:
+      - arsenal/index.md
+      - arsenal/overview.md
+      - arsenal/usage.md
+      - arsenal/api-reference.md
+      - arsenal/changelog.md
+    - Cadence:
+      - cadence/index.md
+      - cadence/overview.md
+      - cadence/usage.md
+      - cadence/api-reference.md
+      - cadence/changelog.md
+    - Saga:
+      - saga/index.md
+      - saga/overview.md
+      - saga/usage.md
+      - saga/api-reference.md
+      - saga/changelog.md
+    - Ledger:
+      - ledger/index.md
+      - ledger/overview.md
+      - ledger/usage.md
+      - ledger/api-reference.md
+      - ledger/changelog.md
+    - Adorn:
+      - adorn/index.md
+      - adorn/overview.md
+      - adorn/usage.md
+      - adorn/api-reference.md
+      - adorn/changelog.md
+    - Tumble:
+      - tumble/index.md
+      - tumble/overview.md
+      - tumble/usage.md
+      - tumble/api-reference.md
+      - tumble/changelog.md
+    - Flux:
+      - flux/index.md
+      - flux/overview.md
+      - flux/usage.md
+      - flux/api-reference.md
+      - flux/changelog.md
+    - Chronicle:
+      - chronicle/index.md
+      - chronicle/overview.md
+      - chronicle/usage.md
+      - chronicle/api-reference.md
+      - chronicle/changelog.md
+    - Marrow:
+      - marrow/index.md
+      - marrow/overview.md
+      - marrow/usage.md
+      - marrow/api-reference.md
+      - marrow/changelog.md
+    - Optica:
+      - optica/index.md
+      - optica/overview.md
+      - optica/usage.md
+      - optica/api-reference.md
+      - optica/changelog.md
+    - Courier:
+      - courier/index.md
+      - courier/overview.md
+      - courier/usage.md
+      - courier/api-reference.md
+      - courier/changelog.md
+    - Lean:
+      - lean/index.md
+      - lean/overview.md
+      - lean/usage.md
+      - lean/api-reference.md
+      - lean/changelog.md
+    - Manifest:
+      - manifest/index.md
+      - manifest/overview.md
+      - manifest/usage.md
+      - manifest/api-reference.md
+      - manifest/changelog.md
+    - Reach:
+      - reach/index.md
+      - reach/overview.md
+      - reach/usage.md
+      - reach/api-reference.md
+      - reach/changelog.md
+    - Relay:
+      - relay/index.md
+      - relay/overview.md
+      - relay/usage.md
+      - relay/api-reference.md
+      - relay/changelog.md
+    - Sleight:
+      - sleight/index.md
+      - sleight/overview.md
+      - sleight/usage.md
+      - sleight/api-reference.md
+      - sleight/changelog.md
+    - Vault:
+      - vault/index.md
+      - vault/overview.md
+      - vault/usage.md
+      - vault/api-reference.md
+      - vault/changelog.md
+    - WorldPool:
+      - worldpool/index.md
+      - worldpool/overview.md
+      - worldpool/usage.md
+      - worldpool/api-reference.md
+      - worldpool/changelog.md
+  - Narrative:
+    - Discourse:
+      - discourse/index.md
+      - discourse/overview.md
+      - discourse/usage.md
+      - discourse/api-reference.md
+      - discourse/changelog.md
+    - Lingua:
+      - lingua/index.md
+      - lingua/overview.md
+      - lingua/usage.md
+      - lingua/api-reference.md
+      - lingua/changelog.md
+  - Performance:
+    - FastFind:
+      - fastfind/index.md
+      - fastfind/overview.md
+      - fastfind/usage.md
+      - fastfind/api-reference.md
+      - fastfind/changelog.md
+    - FastLoop:
+      - fastloop/index.md
+      - fastloop/overview.md
+      - fastloop/usage.md
+      - fastloop/api-reference.md
+      - fastloop/changelog.md
+    - FastMath:
+      - fastmath/index.md
+      - fastmath/overview.md
+      - fastmath/usage.md
+      - fastmath/api-reference.md
+      - fastmath/changelog.md
+    - Torrent:
+      - torrent/index.md
+      - torrent/overview.md
+      - torrent/usage.md
+      - torrent/api-reference.md
+      - torrent/changelog.md
+  - UI:
+    - Kiosk:
+      - kiosk/index.md
+      - kiosk/overview.md
+      - kiosk/usage.md
+      - kiosk/api-reference.md
+      - kiosk/changelog.md
+  - Troubleshooting: troubleshooting.md
