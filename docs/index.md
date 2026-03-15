@@ -16,8 +16,8 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | Plugin | Description |
     |--------|-------------|
     | [Kinetic](kinetic/index.md) | Animation graph nodes and character animation systems |
+    | [Lean](lean/index.md) | 360-degree collision-aware leaning for cover and peek mechanics |
     | [Perpetual](perpetual/index.md) | Data-driven procedural animation for doors, levers, switches, and props |
-    | [Relay](relay/index.md) | High-performance gameplay message routing via GameplayTags |
 
 === "Audio"
     | Plugin | Description |
@@ -37,7 +37,6 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | [Cadence](cadence/index.md) | Input-sequence combo matcher and pattern detection |
     | [Chronicle](chronicle/index.md) | Transform recording, rewind, and scrubbing system |
     | [Flux](flux/index.md) | N-realm spatial zone-of-influence system |
-    | [Lean](lean/index.md) | 360-degree tactical lean component with collision checking |
     | [Ledger](ledger/index.md) | World state fact database with gate components |
     | [Marrow](marrow/index.md) | Curated C++ horror gameplay systems |
     | [Optica](optica/index.md) | Tactical bodycam/FPS plugin with weapon physics and sensor emulation |
@@ -57,13 +56,6 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     |--------|-------------|
     | [Torrent](torrent/index.md) | Centralized Niagara effect lifecycle manager with pooling and budget control |
 
-=== "Performance"
-    | Plugin | Description |
-    |--------|-------------|
-    | [FastFind](fastfind/index.md) | High-performance Blueprint spatial query library |
-    | [FastLoop](fastloop/index.md) | High-performance Blueprint array-processing library |
-    | [FastMath](fastmath/index.md) | High-performance Blueprint math node library |
-
 === "Rendering"
     | Plugin | Description |
     |--------|-------------|
@@ -81,8 +73,12 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | Plugin | Description |
     |--------|-------------|
     | [Courier](courier/index.md) | Reference-counted async asset loading with priority and state tracking |
+    | [FastFind](fastfind/index.md) | High-performance Blueprint spatial query library |
+    | [FastLoop](fastloop/index.md) | High-performance Blueprint array-processing library |
+    | [FastMath](fastmath/index.md) | High-performance Blueprint math node library |
     | [Lingua](lingua/index.md) | Data asset-driven language and localization system |
     | [Manifest](manifest/index.md) | Definition store and runtime asset resolution coordinator |
+    | [Relay](relay/index.md) | High-performance gameplay message routing via GameplayTags |
     | [WorldPool](worldpool/index.md) | High-performance actor pooling with spatial activation and replication |
 
 ## Quick Start

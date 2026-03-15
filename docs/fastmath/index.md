@@ -4,7 +4,7 @@ High-performance Blueprint math node library — SIMD-accelerated math, curves, 
 
 | | |
 |---|---|
-| **Category** | Performance |
+| **Category** | Utility |
 | **UE Version** | 5.5+ |
 | **Blueprint API** | Yes |
 | **C++ API** | Yes |

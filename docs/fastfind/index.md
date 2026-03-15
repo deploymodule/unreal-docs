@@ -4,7 +4,7 @@ High-performance Blueprint spatial query library — broadphase sphere queries w
 
 | | |
 |---|---|
-| **Category** | Performance |
+| **Category** | Utility |
 | **UE Version** | 5.5+ |
 | **Blueprint API** | Yes |
 | **C++ API** | Yes |

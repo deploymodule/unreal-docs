@@ -102,18 +102,18 @@ nav:
       - kinetic/usage.md
       - kinetic/api-reference.md
       - kinetic/changelog.md
+    - Lean:
+      - lean/index.md
+      - lean/overview.md
+      - lean/usage.md
+      - lean/api-reference.md
+      - lean/changelog.md
     - Perpetual:
       - perpetual/index.md
       - perpetual/overview.md
       - perpetual/usage.md
       - perpetual/api-reference.md
       - perpetual/changelog.md
-    - Relay:
-      - relay/index.md
-      - relay/overview.md
-      - relay/usage.md
-      - relay/api-reference.md
-      - relay/changelog.md
   - Audio:
     - Sonance:
       - sonance/index.md
@@ -159,12 +159,6 @@ nav:
       - flux/usage.md
       - flux/api-reference.md
       - flux/changelog.md
-    - Lean:
-      - lean/index.md
-      - lean/overview.md
-      - lean/usage.md
-      - lean/api-reference.md
-      - lean/changelog.md
     - Ledger:
       - ledger/index.md
       - ledger/overview.md
@@ -227,25 +221,6 @@ nav:
       - torrent/usage.md
       - torrent/api-reference.md
       - torrent/changelog.md
-  - Performance:
-    - FastFind:
-      - fastfind/index.md
-      - fastfind/overview.md
-      - fastfind/usage.md
-      - fastfind/api-reference.md
-      - fastfind/changelog.md
-    - FastLoop:
-      - fastloop/index.md
-      - fastloop/overview.md
-      - fastloop/usage.md
-      - fastloop/api-reference.md
-      - fastloop/changelog.md
-    - FastMath:
-      - fastmath/index.md
-      - fastmath/overview.md
-      - fastmath/usage.md
-      - fastmath/api-reference.md
-      - fastmath/changelog.md
   - Rendering:
     - Aether:
       - aether/index.md
@@ -285,6 +260,24 @@ nav:
       - courier/usage.md
       - courier/api-reference.md
       - courier/changelog.md
+    - FastFind:
+      - fastfind/index.md
+      - fastfind/overview.md
+      - fastfind/usage.md
+      - fastfind/api-reference.md
+      - fastfind/changelog.md
+    - FastLoop:
+      - fastloop/index.md
+      - fastloop/overview.md
+      - fastloop/usage.md
+      - fastloop/api-reference.md
+      - fastloop/changelog.md
+    - FastMath:
+      - fastmath/index.md
+      - fastmath/overview.md
+      - fastmath/usage.md
+      - fastmath/api-reference.md
+      - fastmath/changelog.md
     - Lingua:
       - lingua/index.md
       - lingua/overview.md
@@ -297,6 +290,12 @@ nav:
       - manifest/usage.md
       - manifest/api-reference.md
       - manifest/changelog.md
+    - Relay:
+      - relay/index.md
+      - relay/overview.md
+      - relay/usage.md
+      - relay/api-reference.md
+      - relay/changelog.md
     - WorldPool:
       - worldpool/index.md
       - worldpool/overview.md

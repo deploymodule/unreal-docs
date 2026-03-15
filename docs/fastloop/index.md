@@ -4,7 +4,7 @@ High-performance Blueprint array-processing library — filter, sort, chunk, map
 
 | | |
 |---|---|
-| **Category** | Performance |
+| **Category** | Utility |
 | **UE Version** | 5.5+ |
 | **Blueprint API** | Yes |
 | **C++ API** | Yes |

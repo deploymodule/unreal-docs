@@ -6,7 +6,7 @@ Lean provides a `ULeanComponent` that handles full 360-degree leaning with real-
 
 | | |
 |---|---|
-| **Category** | Gameplay — Character Movement |
+| **Category** | Animation |
 | **UE Version** | 5.5+ |
 | **Blueprint** | Yes |
 | **C++ API** | Yes |
