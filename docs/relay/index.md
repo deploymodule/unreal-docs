@@ -6,7 +6,7 @@ Relay is a priority-aware, filter-capable gameplay message bus. Systems publish 
 
 | | |
 |---|---|
-| **Category** | Gameplay — Messaging |
+| **Category** | Animation |
 | **UE Version** | 5.5+ |
 | **Blueprint** | Yes |
 | **C++ API** | Yes |

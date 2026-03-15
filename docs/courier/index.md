@@ -6,7 +6,7 @@ Courier is a reference-counted async asset loading subsystem built on `FStreamab
 
 | | |
 |---|---|
-| **Category** | Gameplay — Asset Loading |
+| **Category** | Utility |
 | **UE Version** | 5.5+ |
 | **Blueprint** | Yes |
 | **C++ API** | Yes |

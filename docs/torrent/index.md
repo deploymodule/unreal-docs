@@ -4,7 +4,7 @@ Centralized Niagara effect lifecycle manager — pooling, budget control, and pr
 
 | | |
 |---|---|
-| **Category** | Performance |
+| **Category** | Niagara |
 | **UE Version** | 5.5+ |
 | **Blueprint API** | Yes |
 | **C++ API** | Yes |

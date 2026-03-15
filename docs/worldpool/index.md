@@ -6,7 +6,7 @@ WorldPool provides a spatial actor pooling system that streams actors in and out
 
 | | |
 |---|---|
-| **Category** | Gameplay — Pooling / Streaming |
+| **Category** | Utility |
 | **UE Version** | 5.5+ |
 | **Blueprint** | Yes |
 | **C++ API** | Yes |

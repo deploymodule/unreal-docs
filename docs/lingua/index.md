@@ -4,7 +4,7 @@ Data asset-driven language and localization system for in-world languages and cu
 
 | | |
 |---|---|
-| **Category** | Narrative |
+| **Category** | Utility |
 | **UE Version** | 5.5+ |
 | **Blueprint API** | Yes |
 | **C++ API** | Yes |

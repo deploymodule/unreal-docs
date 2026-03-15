@@ -6,7 +6,7 @@ Manifest is a centralized subsystem for registering `PrimaryAssetId`s, resolving
 
 | | |
 |---|---|
-| **Category** | Gameplay — Asset Management |
+| **Category** | Utility |
 | **UE Version** | 5.5+ |
 | **Blueprint** | Yes |
 | **C++ API** | Yes |
