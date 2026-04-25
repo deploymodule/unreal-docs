@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls -d /c/Users/zacsu/Documents/unreal-docs/docs/*/index.md)"
+      "Bash(ls -d /c/Users/zacsu/Documents/unreal-docs/docs/*/index.md)",
+      "Read(//c/Users/zacsu/Documents/Unreal Projects/PluginDepot/Plugins/Analog/**)",
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(find 'C:\\\\Users\\\\zacsu\\\\Documents\\\\Unreal Projects\\\\PluginDepot\\\\Plugins\\\\Tonal' -type f \\\\\\(-name *.h -o -name *.cpp -o -name *.usf -o -name *.hlsl \\\\\\))",
+      "Bash(find 'C:\\\\Users\\\\zacsu\\\\Documents\\\\Unreal Projects\\\\PluginDepot\\\\Plugins\\\\Lucent' -type f -name *.usf -o -name *.hlsl)"
     ]
   }
 }

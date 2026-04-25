@@ -114,6 +114,12 @@ nav:
       - perpetual/usage.md
       - perpetual/api-reference.md
       - perpetual/changelog.md
+    - Tumble:
+      - tumble/index.md
+      - tumble/overview.md
+      - tumble/usage.md
+      - tumble/api-reference.md
+      - tumble/changelog.md
   - Audio:
     - Sonance:
       - sonance/index.md
@@ -195,12 +201,6 @@ nav:
       - sleight/usage.md
       - sleight/api-reference.md
       - sleight/changelog.md
-    - Tumble:
-      - tumble/index.md
-      - tumble/overview.md
-      - tumble/usage.md
-      - tumble/api-reference.md
-      - tumble/changelog.md
     - Vault:
       - vault/index.md
       - vault/overview.md

@@ -4,7 +4,7 @@ Character ragdoll system — velocity-scaled physics drives, impulse API, and re
 
 | | |
 |---|---|
-| **Category** | Gameplay |
+| **Category** | Animation |
 | **UE Version** | 5.5+ |
 | **Blueprint API** | Yes |
 | **C++ API** | Yes |

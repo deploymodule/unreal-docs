@@ -18,6 +18,7 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | [Kinetic](kinetic/index.md) | Animation graph nodes and character animation systems |
     | [Lean](lean/index.md) | 360-degree collision-aware leaning for cover and peek mechanics |
     | [Perpetual](perpetual/index.md) | Data-driven procedural animation for doors, levers, switches, and props |
+    | [Tumble](tumble/index.md) | Character ragdoll with velocity-scaled drives and replication |
 
 === "Audio"
     | Plugin | Description |
@@ -43,7 +44,6 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | [Reach](reach/index.md) | Lightweight component-based interaction system with sweep detection |
     | [Saga](saga/index.md) | Data asset-driven quest and objective system |
     | [Sleight](sleight/index.md) | Universal card game framework for deckbuilders, TCGs, and card games |
-    | [Tumble](tumble/index.md) | Character ragdoll with velocity-scaled drives and replication |
     | [Vault](vault/index.md) | Generic inventory container system with slots, weight, and transactions |
 
 === "Narrative"
