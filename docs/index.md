@@ -6,12 +6,15 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
 
 ## Plugin Categories
 
+<!-- HIDDEN: AI
 === "AI"
     | Plugin | Description |
     |--------|-------------|
     | [OmniSense](omnisense/index.md) | Event-driven AI perception system with vision, hearing, and scent |
     | [Warden](warden/index.md) | Genre-agnostic AI State Tree task library with 66+ modular tasks |
+-->
 
+<!-- HIDDEN: Animation
 === "Animation"
     | Plugin | Description |
     |--------|-------------|
@@ -19,17 +22,23 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | [Lean](lean/index.md) | 360-degree collision-aware leaning for cover and peek mechanics |
     | [Perpetual](perpetual/index.md) | Data-driven procedural animation for doors, levers, switches, and props |
     | [Tumble](tumble/index.md) | Character ragdoll with velocity-scaled drives and replication |
+-->
 
+<!-- HIDDEN: Audio
 === "Audio"
     | Plugin | Description |
     |--------|-------------|
     | [Sonance](sonance/index.md) | Data-driven audio management — music stems, spatial ambience, foley, dialogue |
+-->
 
+<!-- HIDDEN: Camera
 === "Camera"
     | Plugin | Description |
     |--------|-------------|
     | [Gimbal](gimbal/index.md) | Modular priority-stack camera system |
+-->
 
+<!-- HIDDEN: Gameplay
 === "Gameplay"
     | Plugin | Description |
     |--------|-------------|
@@ -45,17 +54,23 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | [Saga](saga/index.md) | Data asset-driven quest and objective system |
     | [Sleight](sleight/index.md) | Universal card game framework for deckbuilders, TCGs, and card games |
     | [Vault](vault/index.md) | Generic inventory container system with slots, weight, and transactions |
+-->
 
+<!-- HIDDEN: Narrative
 === "Narrative"
     | Plugin | Description |
     |--------|-------------|
     | [Discourse](discourse/index.md) | Data-driven conversation orchestrator, CSV-importable |
+-->
 
+<!-- HIDDEN: Niagara
 === "Niagara"
     | Plugin | Description |
     |--------|-------------|
     | [Torrent](torrent/index.md) | Centralized Niagara effect lifecycle manager with pooling and budget control |
+-->
 
+<!-- HIDDEN: Rendering
 === "Rendering"
     | Plugin | Description |
     |--------|-------------|
@@ -63,12 +78,16 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | [Lucent](lucent/index.md) | Cinematic lens stack — DOF, bloom, halation, streaks, CA, distortion |
     | [Tonal](tonal/index.md) | HDR/LDR color grading with film stock emulation |
     | [Vapor](vapor/index.md) | Enhanced volumetric fog scattering via compute shader pipeline |
+-->
 
+<!-- HIDDEN: UI
 === "UI"
     | Plugin | Description |
     |--------|-------------|
     | [Kiosk](kiosk/index.md) | Comprehensive data-driven UI framework (pure Slate + Data Asset themes) |
+-->
 
+<!-- HIDDEN: Utility
 === "Utility"
     | Plugin | Description |
     |--------|-------------|
@@ -80,6 +99,7 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
     | [Manifest](manifest/index.md) | Definition store and runtime asset resolution coordinator |
     | [Relay](relay/index.md) | High-performance gameplay message routing via GameplayTags |
     | [WorldPool](worldpool/index.md) | High-performance actor pooling with spatial activation and replication |
+-->
 
 ## Quick Start
 
