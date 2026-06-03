@@ -189,6 +189,26 @@
          <lastmod>2026-06-03</lastmod>
     </url>
     <url>
+         <loc>https://deploymodule.github.io/plugin-depot/continuity/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/continuity/api-reference/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/continuity/changelog/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/continuity/overview/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/continuity/usage/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
          <loc>https://deploymodule.github.io/plugin-depot/courier/</loc>
          <lastmod>2026-06-03</lastmod>
     </url>
@@ -306,6 +326,26 @@
     </url>
     <url>
          <loc>https://deploymodule.github.io/plugin-depot/flux/usage/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/gaffer/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/gaffer/api-reference/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/gaffer/changelog/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/gaffer/overview/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/gaffer/usage/</loc>
          <lastmod>2026-06-03</lastmod>
     </url>
     <url>
@@ -497,6 +537,46 @@
          <lastmod>2026-06-03</lastmod>
     </url>
     <url>
+         <loc>https://deploymodule.github.io/plugin-depot/monolith/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/monolith/api-reference/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/monolith/changelog/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/monolith/overview/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/monolith/usage/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/objectmixercreator/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/objectmixercreator/api-reference/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/objectmixercreator/changelog/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/objectmixercreator/overview/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/objectmixercreator/usage/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
          <loc>https://deploymodule.github.io/plugin-depot/omnisense/</loc>
          <lastmod>2026-06-03</lastmod>
     </url>
@@ -537,6 +617,26 @@
          <lastmod>2026-06-03</lastmod>
     </url>
     <url>
+         <loc>https://deploymodule.github.io/plugin-depot/panoptic/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/panoptic/api-reference/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/panoptic/changelog/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/panoptic/overview/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/panoptic/usage/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
          <loc>https://deploymodule.github.io/plugin-depot/perpetual/</loc>
          <lastmod>2026-06-03</lastmod>
     </url>
@@ -554,6 +654,26 @@
     </url>
     <url>
          <loc>https://deploymodule.github.io/plugin-depot/perpetual/usage/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/prevu/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/prevu/api-reference/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/prevu/changelog/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/prevu/overview/</loc>
+         <lastmod>2026-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://deploymodule.github.io/plugin-depot/prevu/usage/</loc>
          <lastmod>2026-06-03</lastmod>
     </url>
     <url>
