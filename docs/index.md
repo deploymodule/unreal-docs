@@ -6,6 +6,20 @@ PluginDepot is a growing workshop of self-contained UE5 plugins, each solving a 
 
 ## Plugin Categories
 
+=== "Filmmaking"
+    | Plugin | Description |
+    |--------|-------------|
+    | [Gaffer](gaffer/index.md) | Unified scene actor manager — inspect, organize, and keyframe cameras, lights, and environment actors |
+    | [Prevu](prevu/index.md) | Storyboard and animatic system with Act/Scene/Shot hierarchy, thumbnails, and Level Snapshots |
+    | [Continuity](continuity/index.md) | Sequencer workflow extension — sequence browser, handles, batch render, EDL and CSV export |
+    | [Panoptic](panoptic/index.md) | VCam toolkit for solo filmmaking — image monitoring, autofocus, positioning, and take management |
+
+=== "Utility"
+    | Plugin | Description |
+    |--------|-------------|
+    | [Monolith](monolith/index.md) | 80+ scene management utilities — organize, audit, transform, rename, and batch-operate on actors |
+    | [Object Mixer Creator](objectmixercreator/index.md) | Visual no-code generator for Object Mixer filter Blueprints from actor class reflection |
+
 <!-- HIDDEN: AI
 === "AI"
     | Plugin | Description |
